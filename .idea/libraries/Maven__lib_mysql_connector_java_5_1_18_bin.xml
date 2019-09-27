@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: lib:mysql-connector-java:5.1.18-bin">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/lib/mysql-connector-java/5.1.18-bin/mysql-connector-java-5.1.18-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/lib/mysql-connector-java/5.1.18-bin/mysql-connector-java-5.1.18-bin-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/lib/mysql-connector-java/5.1.18-bin/mysql-connector-java-5.1.18-bin-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
